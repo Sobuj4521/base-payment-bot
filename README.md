@@ -60,8 +60,9 @@ A sophisticated Telegram bot for automated token distribution on **Base Network*
 
 ### Installation
 ```bash
-git clone https://github.com/your-repo/base-payment-bot.git
+git clone https://github.com/Sobuj4521/base-payment-bot.git
 cd base-payment-bot
 npm install
 Node Index.js
+
 
